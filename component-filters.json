@@ -15,7 +15,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "video"
     ]
   },
   {
@@ -38,17 +39,5 @@
       "button",
       "title"
     ]
-  },
-  {
-  "id": "section",
-  "components": [
-    "text",
-    "image",
-    "button",
-    "title",
-    "hero",
-    "cards",
-    "columns"
-   ]
-}
+  }
 ]
