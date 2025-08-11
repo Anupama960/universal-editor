@@ -24,7 +24,7 @@
           "component": "aem-content",
           "valueType": "string",
           "name": "videoAsset",
-          "label": "Select video asset",
+          "label": "Select video",
           "multi": false,
           "types": ["dam:Asset"]
           
