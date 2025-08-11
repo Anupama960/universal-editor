@@ -55,19 +55,7 @@
               }
             }
           }
-        },
-        {
-          "title": "Video",
-          "id": "video",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/video/v1/video",
-                "template": {}
-              }
-            }
-          }
-        },
+        }
       ]
     },
     {
